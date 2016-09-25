@@ -1,6 +1,7 @@
 ---
+title: Night Photography
+date: '2016-09-25 20:05:00'
 layout: project
-title: Sample Project 5
 tags:
 - photography
 - sky
