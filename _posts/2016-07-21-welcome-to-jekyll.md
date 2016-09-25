@@ -1,7 +1,7 @@
 ---
+title: New features added
+date: '2016-07-21 16:00:00'
 layout: post
-title:  Blog Post Example 1
-date:   2016-07-21 12:00:00 -0400
 categories: jekyll update
 tags:
 - tag1
