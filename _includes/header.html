@@ -1,0 +1,37 @@
+<!-- Wrapper -->
+<div id="wrapper">
+
+	<header id="header">
+		<div class="inner">
+
+			<!-- Logo -->
+			<a href="{{ site.baseurl }}/" class="logo">
+				<span class="symbol">
+
+					{% if site.data.settings.logo_image %}
+
+					<img src="{{ site.baseurl }}/{{ site.data.settings.logo_image }}" alt="{{ site.data.settings.title }} Logo" />
+
+					{% else %}
+
+					<img src="{{ site.baseurl }}/{{ site.logo-placeholder }}" alt="Placeholder Logo" />
+
+					{% endif %}
+
+				</span><span class="title">{{ site.data.settings.title }}</span>
+			</a>
+			<!-- Nav -->
+			<nav>
+				<ul>
+					<li><a href="#menu">Menu</a></li>
+				</ul>
+			</nav>
+
+		</div>
+	</header>
+
+	{% include menu.html %}
+
+	<!-- Main -->
+	<div id="main">
+		<div class="inner">
