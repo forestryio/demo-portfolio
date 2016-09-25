@@ -1,6 +1,6 @@
 ---
 title: 5 tips when designing a deck
-date: '2016-07-16 16:00:00'
+date: '2016-07-16 00:00:00'
 layout: post
 categories: jekyll update
 tags:
