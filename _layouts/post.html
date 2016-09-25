@@ -9,7 +9,7 @@
 
     <h1>{{ page.title }}</h1> {% if page.featured-image and page.featured-image != "" %}
     <span class="image featured">
-      <img src="{{ site.baseurl }}/{{ page.featured-image }}" alt="">
+      <img src="{{ site.baseurl }}{{ page.featured-image }}" alt="">
     </span> {% endif %} {{ content }} {% include footer.html %}
 
 </body>
