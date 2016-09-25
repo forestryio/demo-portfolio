@@ -5,8 +5,8 @@ layout: project
 tags:
 - photography
 - fog
-featured-image: /images/pic06.jpg
-homepage-thumbnail: /images/pic29.jpg
+featured-image: "/images/pic06.jpg"
+homepage-thumbnail: "/images/pic29.jpg"
 ---
 
 **Project Description:** This is a sample project page. You can add more projects in the `_projects` directory of your Jekyll build. Be sure to include the proper [Front Matter](https://jekyllrb.com/docs/frontmatter/) for each of your projects, including your project's `title`, applicable `categories`, and a `featured-image`.
