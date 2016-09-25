@@ -1,6 +1,7 @@
 ---
+title: Peru Trip
+date: '2016-09-25 20:05:00'
 layout: project
-title: Sample Project 2
 tags:
 - photography
 - land
