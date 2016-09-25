@@ -1,7 +1,7 @@
 ---
+title: This is a test post
+date: '2016-07-17 16:00:00'
 layout: post
-title:  Blog Post Example 5
-date:   2016-07-17 12:00:00 -0400
 categories: jekyll update
 tags:
 - tag1
