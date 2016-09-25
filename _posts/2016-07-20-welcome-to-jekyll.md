@@ -1,7 +1,7 @@
 ---
+title: Cycling Trip
+date: '2016-07-20 16:00:00'
 layout: post
-title:  Blog Post Example 2
-date:   2016-07-20 12:00:00 -0400
 categories: jekyll update
 tags:
 - tag1
