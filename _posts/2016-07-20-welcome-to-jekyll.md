@@ -1,6 +1,6 @@
 ---
 title: Cycling Trip
-date: '2016-07-20 16:00:00'
+date: '2016-07-20 00:00:00'
 layout: post
 categories: jekyll update
 tags:

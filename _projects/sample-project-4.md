@@ -1,6 +1,6 @@
 ---
 title: City Buildings Project
-date: '2016-09-25 20:05:00'
+date: '2016-09-25 00:00:00'
 layout: project
 tags:
 - photography

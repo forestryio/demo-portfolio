@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Elements
+layout: page
 ---
 
 <section>

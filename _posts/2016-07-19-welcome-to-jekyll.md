@@ -1,6 +1,6 @@
 ---
 title: 'Photos of Iceland '
-date: '2016-07-19 16:00:00'
+date: '2016-07-19 00:00:00'
 layout: post
 categories: jekyll update
 tags:

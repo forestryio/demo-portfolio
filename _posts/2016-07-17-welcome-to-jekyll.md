@@ -1,6 +1,6 @@
 ---
 title: This is a test post
-date: '2016-07-17 16:00:00'
+date: '2016-07-17 00:00:00'
 layout: post
 categories: jekyll update
 tags:

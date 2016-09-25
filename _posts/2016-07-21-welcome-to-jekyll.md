@@ -1,6 +1,6 @@
 ---
 title: New features added
-date: '2016-07-21 16:00:00'
+date: '2016-07-21 00:00:00'
 layout: post
 categories: jekyll update
 tags:
