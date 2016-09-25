@@ -1,6 +1,7 @@
 ---
+title: Salt Water
+date: '2016-09-25 20:05:00'
 layout: project
-title: Sample Project 1
 tags:
 - photography
 - ocean
