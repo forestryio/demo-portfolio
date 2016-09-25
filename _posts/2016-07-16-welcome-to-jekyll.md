@@ -1,7 +1,7 @@
 ---
+title: 5 tips when designing a deck
+date: '2016-07-16 16:00:00'
 layout: post
-title:  Blog Post Example 6
-date:   2016-07-16 12:00:00 -0400
 categories: jekyll update
 tags:
 - tag1
