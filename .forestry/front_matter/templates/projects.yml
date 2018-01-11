@@ -1,0 +1,40 @@
+---
+pages:
+- _projects/sample-project-6.md
+- _projects/sample-project-5.md
+- _projects/sample-project-4.md
+- _projects/sample-project-3.md
+- _projects/sample-project-2.html
+- _projects/sample-project-1.md
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: project
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: []
+- name: featured-image
+  label: Featured image
+  type: text
+  hidden: false
+  default: ''
+- name: homepage-thumbnail
+  label: Homepage thumbnail
+  type: text
+  hidden: false
+  default: ''
